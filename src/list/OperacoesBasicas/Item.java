@@ -37,9 +37,7 @@ public class Item {
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
-        return super.toString();
+        return "Item [nome=" + nome + ", preco=" + preco + ", quantidade=" + quantidade + "]";
     }
-
-    
+       
 }
