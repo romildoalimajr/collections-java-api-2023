@@ -2,8 +2,6 @@ package list.OperacoesBasicas;
 
 import java.util.List;
 
-import list.OperacoesBasicas.Tarefa;
-
 import java.util.ArrayList;
 
 public class ListaTarefa {
